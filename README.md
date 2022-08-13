@@ -1,6 +1,6 @@
-# Micro-Front-end
-`small shop app with fidget spinners`
-Cypress, React, React-router, Typescript, nestjs, solid-js, Tailwind, webpack
+## Micro-Front-end
+# small shop app with fidget spinners
+`Cypress`,`React`,`React-router`,`Typescript`,`nestjs`,`solid-js`,`Tailwind`,`webpack`
 
 # Installation
 
